@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\helpers-nepasmodifier\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\helpers-nepasmodifier\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\helpers-nepasmodifier\\commandhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\helpers-nepasmodifier\\commandhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|c:\\users\\jerem\\onedrive - codecare\\projets\\testcodecare\\testcodecare\\helpers-nepasmodifier\\delegatingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388962DD-2CA9-453A-95A4-5BF30C31C469}|TestCodecare\\TestCodecare.csproj|solutionrelative:testcodecare\\helpers-nepasmodifier\\delegatingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegatingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\DelegatingCommand.cs",
+              "RelativeDocumentMoniker": "TestCodecare\\Helpers-NePasModifier\\DelegatingCommand.cs",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\DelegatingCommand.cs",
+              "RelativeToolTip": "TestCodecare\\Helpers-NePasModifier\\DelegatingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:35:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\CommandHelper.cs",
+              "RelativeDocumentMoniker": "TestCodecare\\Helpers-NePasModifier\\CommandHelper.cs",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\CommandHelper.cs",
+              "RelativeToolTip": "TestCodecare\\Helpers-NePasModifier\\CommandHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:34:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\ViewModel.cs",
+              "RelativeDocumentMoniker": "TestCodecare\\Helpers-NePasModifier\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\Helpers-NePasModifier\\ViewModel.cs",
+              "RelativeToolTip": "TestCodecare\\Helpers-NePasModifier\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:17:41.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "TestCodecare\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindowViewModel.cs",
+              "RelativeToolTip": "TestCodecare\\MainWindowViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:45.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestCodecare\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindow.xaml",
+              "RelativeToolTip": "TestCodecare\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T08:46:16.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestCodecare\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jerem\\OneDrive - Codecare\\Projets\\TestCodecare\\TestCodecare\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestCodecare\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:46:09.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
